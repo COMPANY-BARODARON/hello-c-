@@ -1,7 +1,4 @@
 using System;
-using System.IO;
-using System.Text;
-using System.Runtime.Serialization.Formatters.Binary;
 namespace Console_for_lessons
 { 
    
@@ -9,7 +6,7 @@ namespace Console_for_lessons
     {
         static void Main(string[] args)
         {
-       Console.Write("hello world !");
+            Console.Write("hello world !");
             Console.ReadKey();
         }
     }
